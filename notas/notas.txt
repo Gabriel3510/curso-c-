@@ -1,0 +1,2 @@
+g++ nome do arquivo.cpp -o nome do arquivo
+
